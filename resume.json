@@ -1,0 +1,106 @@
+{
+  "basics": {
+      "name": "James Loftus",
+      "label": "Software Developer",
+      "picture": "",
+      "email": "jloftus1979@gmail.com",
+      "phone": "(318) 286-7862",
+      "summary": "<TDB>",
+      "location": {
+          "address": "1788 Missile Base Road",
+          "postalCode": "LA 71078",
+          "city": "Stonewall",
+          "countryCode": "US",
+          "region": "Louisiana"
+      },
+      "profiles": [
+          {
+              "network": "LinkedIn",
+              "username": "jloftus1979",
+              "url": "https://www.linkedin.com/in/james-loftus-4b17b74"
+          }
+      ]
+  },
+  "work": [
+      {
+          "company": "Aptean",
+          "position": "Lead Engineer, Development",
+          "startDate": "2018-05-01",
+          "summary": "Working as part of the Jurisdiction Online team to provide regulatory services to state and local jurisdictions and insurances companies to handle inspections and issues certificates for boilers, pressure vessels, elevators, and amusement rides as mandated.",
+          "highlights": [
+              "Acquired by Aptean from Praeses as part of the Jurisdiction Online team",
+              "Assigned as lead developer of the Customer Success Team, responsible for handling high prior customer issues"
+          ]
+      },
+      {
+          "company": "Praeses",
+          "position": "Software Developer",
+          "startDate": "2016-11-07",
+          "endDate": "2017-12-22",
+          "summary": "Working as part of the Jurisdiction Online team to provide regulatory services to state and local jurisdictions and insurances companies to handle inspections and issues certificates for boilers, pressure vessels, elevators, and amusement rides as mandated.",
+          "highlights": [
+              "Assisted in completion of new invoice adjustments feature",
+              "Updated the accounting reports suite to meet current coding standards for ActiveReports"
+          ]
+      },
+      {
+          "company": "Bowman Systems",
+          "position": "Senior Developer Analyst",
+          "startDate": "2003-03-11",
+          "endDate": "2016-11-04",
+          "summary": "Industry leading nationwide provider of HMIS case management software used by agencies and shelters to serve the homeless and any in need of assistance. Acquired by Mediware in 2016, now a part of WellSky."
+      }
+  ],
+  "education": [
+      {
+          "institution": "Louisiana State University in Shreveport",
+          "area": "Computer Science",
+          "studyType": "Bachelor",
+          "startDate": "1997-09-01",
+          "endDate": "2002-05-01"
+      }
+  ],
+  "skills": [
+      {
+          "name": "Leadership",
+          "level": "Intermediate",
+          "keywords": [
+              ""
+          ]
+      },
+      {
+          "name": "Web Development",
+          "level": "Advanced",
+          "keywords": [
+              "C#",
+              "JavaScript",
+              "HTML",
+              "CSS",
+              "JSON",
+              "XML"
+          ]
+      },
+      {
+          "name": "Databases",
+          "level": "Advanced",
+          "keywords": [
+              "Microsoft SQL Server",
+              "PostgreSQL"
+          ]
+      }
+  ],
+  "interests": [
+      {
+          "name": "",
+          "keywords": [
+              ""
+          ]
+      }
+  ],
+  "references": [
+      {
+          "name": "",
+          "reference": ""
+      }
+  ]
+}
